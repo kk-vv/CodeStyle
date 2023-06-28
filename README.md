@@ -1,4 +1,4 @@
-#### Codestyle demo
+#### Code style demo
 
 - Build with Epoxy/RxSwift/MVVM
 
